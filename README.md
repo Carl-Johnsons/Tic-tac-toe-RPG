@@ -1,6 +1,9 @@
 # Tic-tac-toe-RPG
 This project is made based team creativity and for education purpose
-Slide introduction: https://www.canva.com/design/DAFdnh-iF94/Jh1yd6sstJSoneDm-R8YSg/view?utm_content=DAFdnh-iF94&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+# Slide introduction: 
+https://www.canva.com/design/DAFdnh-iF94/Jh1yd6sstJSoneDm-R8YSg/view?utm_content=DAFdnh-iF94&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 # Normal Mode:
 - The game is played on a 3x3 (or more) grid board.
 - One player uses X and the other uses O.
